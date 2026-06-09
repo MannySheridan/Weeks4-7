@@ -24,9 +24,9 @@ public class Runner : MonoBehaviour
     public void OnMoveClick()
     {
         isMoving = true;
- 
+
     }
 
-  
 
+}
 
